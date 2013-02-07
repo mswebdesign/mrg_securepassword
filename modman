@@ -1,0 +1,6 @@
+build/app/code/community/Symmetrics/SecurePassword/                             app/code/community/Symmetrics/SecurePassword/
+build/app/design/frontend/default/default/layout/securepassword.xml             app/design/frontend/default/default/layout/securepassword.xml
+build/app/design/frontend/default/default/template/mrg/securepassword.phtml     app/design/frontend/default/default/template/mrg/securepassword.phtml
+build/app/etc/modules/Symmetrics_SecurePassword.xml                             app/etc/modules/Symmetrics_SecurePassword.xml
+build/app/locale/de_CH/Symmetrics_SecurePassword.csv                            app/locale/de_CH/Symmetrics_SecurePassword.csv
+build/app/locale/de_DE/Symmetrics_SecurePassword.csv                            app/locale/de_DE/Symmetrics_SecurePassword.csv
